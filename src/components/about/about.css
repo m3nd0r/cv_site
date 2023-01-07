@@ -1,0 +1,24 @@
+.about_me-image {
+    max-width: 300px;
+    width: 75%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    padding: 8px;
+}
+
+.about_container {
+    position: relative;
+    text-align: center;
+}
+
+.download_button {
+    margin-top: 1rem;
+}
+
+.socials {
+    margin-top: 1rem;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: center;
+}
